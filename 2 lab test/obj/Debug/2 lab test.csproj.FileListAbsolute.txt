@@ -1,0 +1,11 @@
+D:\лабы дойникова\2 lab test\2 lab test\bin\Debug\2 lab test.exe.config
+D:\лабы дойникова\2 lab test\2 lab test\bin\Debug\2 lab test.exe
+D:\лабы дойникова\2 lab test\2 lab test\bin\Debug\2 lab test.pdb
+D:\лабы дойникова\2 lab test\2 lab test\obj\Debug\2 lab test.csproj.AssemblyReference.cache
+D:\лабы дойникова\2 lab test\2 lab test\obj\Debug\2 lab test.csproj.SuggestedBindingRedirects.cache
+D:\лабы дойникова\2 lab test\2 lab test\obj\Debug\_2_lab_test.Form1.resources
+D:\лабы дойникова\2 lab test\2 lab test\obj\Debug\_2_lab_test.Properties.Resources.resources
+D:\лабы дойникова\2 lab test\2 lab test\obj\Debug\2 lab test.csproj.GenerateResource.cache
+D:\лабы дойникова\2 lab test\2 lab test\obj\Debug\2 lab test.csproj.CoreCompileInputs.cache
+D:\лабы дойникова\2 lab test\2 lab test\obj\Debug\2 lab test.exe
+D:\лабы дойникова\2 lab test\2 lab test\obj\Debug\2 lab test.pdb
